@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "フランソワ",
+  "base_artist": "大沼パセリ",
+  "createdAt": "2026-02-08T08:10:19.545030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フランソワ",
+      "artist": "Parsley Onuma",
+      "has_synced": true,
+      "path": "select/01_フランソワ_Parsley_Onuma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フランソワ",
+      "artist": "大沼パセリ",
+      "has_synced": false,
+      "path": "select/pl_01_フランソワ_大沼パセリ.txt"
+    }
+  ]
+}
